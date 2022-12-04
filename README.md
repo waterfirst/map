@@ -1,5 +1,6 @@
 # map
 
+![Clipboard01](https://user-images.githubusercontent.com/40909985/205479326-bbd738be-b91e-411d-bee3-afd07d6dc7a9.jpg)
 
 library(maps)
 data(world.cities)
